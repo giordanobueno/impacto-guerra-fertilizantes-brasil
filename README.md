@@ -1,7 +1,6 @@
 # O Impacto da Guerra Russo-Ucraniana na Importação de Fertilizantes no Brasil (2004–2024)
 
-> **Trabalho Aplicado de Econometria I**  
-> **Departamento de Economia — Programa de Pós-Graduação em Organizações e Mercados (PPGOM)**  
+> **Trabalho Aplicado de Econometria I**   
 > **Universidade Federal de Pelotas (UFPel)**  
 > **Docente:** Prof. André Carraro  
 > **Autor:** Giordano Bueno Freitas de Souza  
