@@ -48,10 +48,10 @@ Para validação dos pressupostos clássicos do Modelo Linear Clássico e garant
 
 ## 📊 Principais Achados
 
-- **Demanda Elástica às Commodities Agrícolas**: O coeficiente de $\ln(\text{Commodity})$ foi positivo e estatisticamente significante a 5% ($\hat{\beta}_1 = 1,645; p = 0,025$), confirmando que a demanda por fertilizantes NPK no Brasil é fortemente elástica em relação aos preços internacionais das commodities (demanda derivada). Um aumento de 1% nos preços das commodities agrícolas correlaciona-se com elevação de aproximadamente 1,65% nas importações de NPK russo;
-- **Persistência Temporal (Inércia)**: A defasagem temporal foi altamente significante a 1% ($\hat{\beta}_4 = 0,782; p = 0,002$), refletindo contratos de fornecimento prévios, planejamento de safra e dependência estrutural do setor;
-- **Dummy de Guerra Não Significante**: O coeficiente da variável de intervenção não apresentou significância estatística ($\hat{\beta}_2 = -0,396; p = 0,496$), demonstrando que, no curto e médio prazo, não houve retração estrutural das importações russas de NPK;
-- **Conclusão Econômica**: Os resultados empíricos evidenciam a continuidade do fornecimento e a célere adaptação comercial e logística entre importadores brasileiros e fornecedores russos, além do pragmatismo diplomático brasileiro e das exceções internacionais concedidas ao comércio global de fertilizantes.
+- **Demanda Elástica às Commodities Agrícolas:** O coeficiente de ln(commodity) foi positivo e estatisticamente significante a 5% (β̂₁ = 1,645; p = 0,025), em linha com a teoria da demanda derivada. Um aumento de 1% nos preços das commodities agrícolas está associado a um incremento de aproximadamente 1,65% nas importações brasileiras de NPK russo.
+- **Persistência Temporal (Inércia):** A defasagem das importações apresentou alta significância estatística a 1% (β̂₄ = 0,782; p = 0,002), indicando forte persistência explicada por custos de ajustamento, contratos de longo prazo e estoques de suprimentos.
+- **Impacto da Guerra Não Significante:** O coeficiente da variável dummy de intervenção não apresentou significância estatística (β̂₂ = -0,396; p = 0,496), indicando que o conflito não gerou redução estatisticamente significativa ou impacto estrutural sobre o volume importado no curto prazo.
+- **Fatores Explicativos:** A estabilidade observada ampara-se na rápida adaptação do mercado, na continuidade de contratos preexistentes, nas exceções comerciais concedidas pela União Europeia aos fertilizantes e na postura pragmática/neutra do Brasil frente ao conflito.
 
 ---
 
