@@ -81,30 +81,6 @@ O projeto foi integralmente desenvolvido na linguagem **R** (versão $\ge 4.0$):
 
 ---
 
-## 🚀 Como Reproduzir a Análise
-
-1. **Clone o repositório:**
-   ```bash
-   git clone https://github.com/giordanobueno/impacto-guerra-fertilizantes-brasil.git
-   cd impacto-guerra-fertilizantes-brasil
-   ```
-
-2. **Abra o R ou RStudio** e instale os pacotes requeridos caso ainda não os possua:
-   ```r
-   install.packages(c(
-     "tidyverse", "ggplot2", "rbcb", "tidyquant",
-     "car", "lmtest", "strucchange", "sandwich",
-     "corrplot", "summarytools", "descr", "stargazer"
-   ))
-   ```
-
-3. **Execute o script:**
-   ```r
-   source("scripts/analise_fertilizantes.R")
-   ```
-
----
-
 ## 👤 Autor
 
 **Giordano Bueno Freitas de Souza**  
