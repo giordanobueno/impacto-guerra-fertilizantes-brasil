@@ -3,7 +3,7 @@
 > **Trabalho Aplicado de Econometria I**  
 > **Departamento de Economia — Programa de Pós-Graduação em Organizações e Mercados (PPGOM)**  
 > **Universidade Federal de Pelotas (UFPel)**  
-> **Docente:** Prof. André Carraro | **Monitoria:** Wandson Rafael dos Santos  
+> **Docente:** Prof. André Carraro  
 > **Autor:** Giordano Bueno Freitas de Souza  
 
 ---
