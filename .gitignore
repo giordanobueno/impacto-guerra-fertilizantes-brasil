@@ -1,0 +1,27 @@
+# Histórico e Sessão do R
+.Rhistory
+.RData
+.RDataTmp
+.Ruserdata
+
+# Arquivos e configurações do RStudio
+.Rproj.user/
+*.Rproj
+
+# Variáveis de ambiente locais
+.Renviron
+
+# Saídas e compilações temporárias
+*.Rout
+*.tmp
+*~
+
+# Arquivos de sistema operacional
+.DS_Store
+Thumbs.db
+ehthumbs.db
+[Dd]esktop.ini
+
+# Ambientes de desenvolvimento
+.vscode/
+.idea/
